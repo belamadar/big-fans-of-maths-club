@@ -1,181 +1,207 @@
-[12:36:24] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
-[12:36:24] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[12:36:24] [main/INFO]: Loading 4 mods:
+[18:14:43] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[18:14:43] [main/INFO]: Loading 61 mods:
+	- audioplayer 1.20.4-1.9.0
+	   \-- admiral 0.4.4+1.20.4
+	- chunky 1.3.138
+	- dynmap 3.7-beta-4
+	- enhancedgroups 1.20.4-1.6.0
+	   \-- admiral 0.4.4+1.20.4
+	- fabric-api 0.96.11+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.15+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.4+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.4+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.26+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.9+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.65+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.14+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.20+df798a894f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+eb30349a4f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
 	- fabricloader 0.15.7
 	   \-- mixinextras 0.3.5
+	- ferritecore 6.0.3
+	- forgeconfigapiport 20.4.3
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
 	- java 17
+	- lithium 0.12.1
 	- minecraft 1.20.4
-[12:36:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/crafty/servers/2d77b0fb-6a53-48f7-813e-61d98bfebe44/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[12:36:29] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:36:30] [main/INFO]: No existing world data, creating new world
-[12:36:31] [main/INFO]: Loaded 7 recipes
-[12:36:31] [main/INFO]: Loaded 1271 advancements
-[12:36:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[12:36:32] [Server thread/INFO]: Loading properties
-[12:36:32] [Server thread/INFO]: Default game type: SURVIVAL
-[12:36:32] [Server thread/INFO]: Generating keypair
-[12:36:32] [Server thread/INFO]: Starting Minecraft server on *:25575
-[12:36:32] [Server thread/INFO]: Using epoll channel type
-[12:36:32] [Server thread/INFO]: Preparing level "world"
-[12:36:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:36:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[12:36:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:36:40] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[12:36:41] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[12:36:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[12:36:42] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[12:36:42] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[12:36:43] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[12:36:43] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[12:36:44] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[12:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[12:36:45] [Worker-Main-3/INFO]: Preparing spawn area: 12%
-[12:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[12:36:46] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[12:36:46] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[12:36:47] [Worker-Main-1/INFO]: Preparing spawn area: 21%
-[12:36:47] [Worker-Main-1/INFO]: Preparing spawn area: 23%
-[12:36:48] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[12:36:48] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[12:36:49] [Worker-Main-3/INFO]: Preparing spawn area: 30%
-[12:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[12:36:50] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[12:36:50] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[12:36:51] [Worker-Main-3/INFO]: Preparing spawn area: 40%
-[12:36:51] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[12:36:52] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[12:36:52] [Worker-Main-1/INFO]: Preparing spawn area: 47%
-[12:36:53] [Worker-Main-1/INFO]: Preparing spawn area: 50%
-[12:36:53] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[12:36:54] [Worker-Main-2/INFO]: Preparing spawn area: 56%
-[12:36:54] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[12:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[12:36:55] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[12:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[12:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 69%
-[12:36:57] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[12:36:57] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[12:36:58] [Worker-Main-2/INFO]: Preparing spawn area: 77%
-[12:36:58] [Worker-Main-2/INFO]: Preparing spawn area: 80%
-[12:36:59] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[12:36:59] [Worker-Main-1/INFO]: Preparing spawn area: 85%
-[12:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[12:37:00] [Worker-Main-1/INFO]: Preparing spawn area: 90%
-[12:37:01] [Worker-Main-1/INFO]: Preparing spawn area: 93%
-[12:37:01] [Worker-Main-1/INFO]: Preparing spawn area: 97%
-[12:37:01] [Server thread/INFO]: Time elapsed: 23878 ms
-[12:37:01] [Server thread/INFO]: Done (29.371s)! For help, type "help"
-[12:37:11] [Server thread/INFO]: /advancement (grant|revoke)
-[12:37:11] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[12:37:11] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[12:37:11] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[12:37:11] [Server thread/INFO]: /clear [<targets>]
-[12:37:11] [Server thread/INFO]: /clone (<begin>|from)
-[12:37:11] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[12:37:11] [Server thread/INFO]: /data (merge|get|remove|modify)
-[12:37:11] [Server thread/INFO]: /datapack (enable|disable|list)
-[12:37:11] [Server thread/INFO]: /debug (start|stop|function)
-[12:37:11] [Server thread/INFO]: /defaultgamemode <gamemode>
-[12:37:11] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[12:37:11] [Server thread/INFO]: /effect (clear|give)
-[12:37:11] [Server thread/INFO]: /me <action>
-[12:37:11] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[12:37:11] [Server thread/INFO]: /experience (add|set|query)
-[12:37:11] [Server thread/INFO]: /xp -> experience
-[12:37:11] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[12:37:11] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[12:37:11] [Server thread/INFO]: /forceload (add|remove|query)
-[12:37:11] [Server thread/INFO]: /function <name> [<arguments>|with]
-[12:37:11] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[12:37:11] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[12:37:11] [Server thread/INFO]: /give <targets> <item> [<count>]
-[12:37:11] [Server thread/INFO]: /help [<command>]
-[12:37:11] [Server thread/INFO]: /item (replace|modify)
-[12:37:11] [Server thread/INFO]: /kick <targets> [<reason>]
-[12:37:11] [Server thread/INFO]: /kill [<targets>]
-[12:37:11] [Server thread/INFO]: /list [uuids]
-[12:37:11] [Server thread/INFO]: /locate (structure|biome|poi)
-[12:37:11] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[12:37:11] [Server thread/INFO]: /msg <targets> <message>
-[12:37:11] [Server thread/INFO]: /tell -> msg
-[12:37:11] [Server thread/INFO]: /w -> msg
-[12:37:11] [Server thread/INFO]: /particle <name> [<pos>]
-[12:37:11] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[12:37:11] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[12:37:11] [Server thread/INFO]: /random (value|roll|reset)
-[12:37:11] [Server thread/INFO]: /reload
-[12:37:11] [Server thread/INFO]: /recipe (give|take)
-[12:37:11] [Server thread/INFO]: /return (<value>|fail|run)
-[12:37:11] [Server thread/INFO]: /ride <target> (mount|dismount)
-[12:37:11] [Server thread/INFO]: /say <message>
-[12:37:11] [Server thread/INFO]: /schedule (function|clear)
-[12:37:11] [Server thread/INFO]: /scoreboard (objectives|players)
-[12:37:11] [Server thread/INFO]: /seed
-[12:37:11] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[12:37:11] [Server thread/INFO]: /spawnpoint [<targets>]
-[12:37:11] [Server thread/INFO]: /setworldspawn [<pos>]
-[12:37:11] [Server thread/INFO]: /spectate [<target>]
-[12:37:11] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[12:37:11] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[12:37:11] [Server thread/INFO]: /summon <entity> [<pos>]
-[12:37:11] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[12:37:11] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[12:37:11] [Server thread/INFO]: /teammsg <message>
-[12:37:11] [Server thread/INFO]: /tm -> teammsg
-[12:37:11] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[12:37:11] [Server thread/INFO]: /tp -> teleport
-[12:37:11] [Server thread/INFO]: /tellraw <targets> <message>
-[12:37:11] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[12:37:11] [Server thread/INFO]: /time (set|add|query)
-[12:37:11] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[12:37:11] [Server thread/INFO]: /trigger <objective> [add|set]
-[12:37:11] [Server thread/INFO]: /weather (clear|rain|thunder)
-[12:37:11] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[12:37:11] [Server thread/INFO]: /jfr (start|stop)
-[12:37:11] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[12:37:11] [Server thread/INFO]: /banlist [ips|players]
-[12:37:11] [Server thread/INFO]: /ban <targets> [<reason>]
-[12:37:11] [Server thread/INFO]: /deop <targets>
-[12:37:11] [Server thread/INFO]: /op <targets>
-[12:37:11] [Server thread/INFO]: /pardon <targets>
-[12:37:11] [Server thread/INFO]: /pardon-ip <target>
-[12:37:11] [Server thread/INFO]: /perf (start|stop)
-[12:37:11] [Server thread/INFO]: /save-all [flush]
-[12:37:11] [Server thread/INFO]: /save-off
-[12:37:11] [Server thread/INFO]: /save-on
-[12:37:11] [Server thread/INFO]: /setidletimeout <minutes>
-[12:37:11] [Server thread/INFO]: /stop
-[12:37:11] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[12:39:48] [Server thread/INFO]: The world border is currently 59999968 block(s) wide
-[12:49:22] [Server thread/INFO]: Set the world border to 4000.0 block(s) wide
-[12:49:26] [Server thread/INFO]: The world border is currently 4000 block(s) wide
-[12:49:37] [Server thread/INFO]: Nothing changed. The world border is already that size
-[13:15:46] [Server thread/WARN]: handleDisconnection() called twice
-[13:24:58] [User Authenticator #1/INFO]: UUID of player belamadar is 71e3a55e-7238-4242-8666-b15085123c06
-[13:24:58] [Server thread/INFO]: belamadar[/176.61.88.220:13761] logged in with entity id 193 at (-87.5, 103.0, -215.5)
-[13:24:58] [Server thread/INFO]: belamadar joined the game
-[13:27:20] [Server thread/INFO]: Set the world spawn point to -80, 97, -224 [0.0]
-[13:27:43] [Server thread/INFO]: Set the world spawn point to -26, 70, 295 [0.0]
-[13:28:15] [Server thread/INFO]: Set the center of the world border to -25.50, 295.50
-[13:28:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:28:50] [Server thread/INFO]: spawn belamadar<--[HERE]
-[13:29:24] [Server thread/INFO]: No entity was found
-[13:29:48] [Server thread/INFO]: belamadar was slain by Zombie
-[13:31:11] [Server thread/INFO]: Set the center of the world border to -25.50, -294.50
-[13:31:21] [Server thread/INFO]: Nothing changed. The world border is already centered there
-[13:34:57] [Server thread/INFO]: Stopping the server
-[13:34:57] [Server thread/INFO]: Stopping server
-[13:34:57] [Server thread/INFO]: Saving players
-[13:34:57] [Server thread/INFO]: belamadar lost connection: Server closed
-[13:34:57] [Server thread/INFO]: belamadar left the game
-[13:34:57] [Server thread/INFO]: Saving worlds
-[13:34:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:35:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:35:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:35:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:35:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:35:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:35:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	- openpartiesandclaims 0.20.4
+	- radio 1.20.4-1.0.0
+	- shulkerbox 1.20.4-2.0.3
+	- sound_physics_remastered 1.20.4-1.3.1
+	- trade_cycling 1.20.4-1.0.11
+	   |-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
+	   \-- fabric-screen-api-v1 2.0.15+f6e85ac232
+	- villagerconfig 4.1.2+1.20.2
+	   |-- config2brigadier 1.2.5
+	   \-- fiber 0.23.0-2
+	- voicechat 1.20.4-2.5.10
+	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
+[18:14:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/crafty/servers/2d77b0fb-6a53-48f7-813e-61d98bfebe44/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[18:14:43] [main/INFO]: Compatibility level set to JAVA_17
+[18:14:44] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:14:44] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 1 override(s) found
+[18:14:44] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[18:14:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[18:14:52] [main/INFO]: Loaded C2B lib.
+[18:14:52] [main/INFO]: [Dynmap] Mod Support API available
+[18:14:52] [main/INFO]: [voicechat] Compatibility version 18
+[18:14:52] [main/INFO]: [voicechat] Loading plugins
+[18:14:52] [main/INFO]: [voicechat] Loaded 4 plugin(s)
+[18:14:52] [main/INFO]: [voicechat] Initializing plugins
+[18:14:52] [main/INFO]: Initializing Simple Voice Chat integration
+[18:14:52] [main/INFO]: [voicechat] Initialized 4 plugin(s)
+[18:14:52] [main/INFO]: [voicechat] Registering events for 'audioplayer'
+[18:14:52] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
+[18:14:52] [main/INFO]: [voicechat] Registering events for 'radio'
+[18:14:52] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[18:14:52] [main/INFO]: Loading Open Parties and Claims!
+[18:14:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:14:54] [main/INFO]: [Dynmap] Register commands
+[18:14:55] [main/INFO]: Loaded 7 recipes
+[18:14:55] [main/INFO]: Loaded 1271 advancements
+[18:14:55] [main/INFO]: Loaded 0 trades
+[18:14:56] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 4.005 ms
+[18:14:56] [Server thread/INFO]: [Dynmap] Added 20 custom biome mappings
+[18:14:56] [Server thread/INFO]: [Dynmap] Using ops.txt for access control
+[18:14:56] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:14:56] [Server thread/INFO]: Loading properties
+[18:14:56] [Server thread/INFO]: Default game type: SURVIVAL
+[18:14:56] [Server thread/INFO]: Generating keypair
+[18:14:56] [Server thread/INFO]: Starting Minecraft server on *:25575
+[18:14:56] [Server thread/INFO]: Using epoll channel type
+[18:14:56] [Server thread/INFO]: Preparing level "world"
+[18:14:56] [Server thread/INFO]: [Dynmap] Mod Support processing completed
+[18:14:58] [Server thread/INFO]: [Dynmap] Loaded 27 shaders.
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 83 perspectives.
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 22 lightings.
+[18:14:59] [Server thread/INFO]: [Dynmap] Starting enter/exit processing
+[18:14:59] [Dynmap Render Thread/INFO]: [Dynmap] Finish marker initialization
+[18:14:59] [Server thread/INFO]: [Dynmap] Web server started on address 0.0.0.0:8123
+[18:14:59] [Server thread/INFO]: [Dynmap] version 3.7-beta-4 is enabled - core version 3.7-beta-4-935
+[18:14:59] [Server thread/INFO]: [Dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[18:14:59] [Server thread/INFO]: [Dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[18:14:59] [Server thread/INFO]: [Dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[18:14:59] [Server thread/INFO]: [Dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 3 maps of world 'world'.
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 2 maps of world 'DIM1'.
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 2 maps of world 'DIM-1'.
+[18:14:59] [Server thread/INFO]: [Dynmap] Loaded 831 pending tile renders for world 'world'
+[18:14:59] [Server thread/INFO]: [Dynmap] Register events
+[18:14:59] [Server thread/INFO]: [Dynmap] Enabled
+[18:14:59] [Server thread/INFO]: Initializing Open Parties and Claims for the server...
+[18:14:59] [Server thread/INFO]: Loading server info!
+[18:14:59] [Server thread/INFO]: Loading player configs...
+[18:14:59] [Server thread/INFO]: Loaded player configs!
+[18:14:59] [Server thread/INFO]: Loading parties...
+[18:14:59] [Server thread/INFO]: Loaded parties!
+[18:14:59] [Server thread/INFO]: Fixing party inconsistencies...
+[18:14:59] [Server thread/INFO]: Registered party system for OPAC: default
+[18:15:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:15:05] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:15:06] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[18:15:06] [Server thread/INFO]: Time elapsed: 3738 ms
+[18:15:06] [Server thread/INFO]: Done (9.740s)! For help, type "help"
+[18:15:06] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[18:15:06] [Server thread/INFO]: Added 0 persistent groups
+[18:15:06] [Server thread/INFO]: Loading claims...
+[18:15:06] [Server thread/INFO]: Loaded claims in 1ms
+[18:15:06] [Server thread/WARN]: The configured permission system "prometheus" isn't registered!
+[18:15:06] [Server thread/WARN]: The configured primary party system "argonauts_guilds" isn't registered!
+[18:15:06] [Server thread/INFO]: Configured OPAC to use the following party system as primary: default
+[18:15:06] [Server thread/INFO]: [Dynmap] Loaded 722 pending tile renders for world 'world'
+[18:15:07] [Dynmap Render Thread/INFO]: [Dynmap] Loading resource pack standard
+[18:15:19] [User Authenticator #1/INFO]: UUID of player belamadar is 71e3a55e-7238-4242-8666-b15085123c06
+[18:15:20] [Server thread/INFO]: belamadar[/176.61.88.220:4353] logged in with entity id 127 at (-26.69999998807907, 77.0, -348.53903499693763)
+[18:15:20] [Server thread/INFO]: belamadar joined the game
+[18:15:20] [Server thread/INFO]: Updating all forceload tickets for 71e3a55e-7238-4242-8666-b15085123c06
+[18:15:21] [Server thread/INFO]: [voicechat] Received secret request of belamadar (18)
+[18:15:21] [Server thread/INFO]: [voicechat] Sent secret to belamadar
+[18:15:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 71e3a55e-7238-4242-8666-b15085123c06
+[18:15:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 71e3a55e-7238-4242-8666-b15085123c06
+[18:15:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player belamadar (71e3a55e-7238-4242-8666-b15085123c06) successfully connected to voice chat
+[18:17:39] [Server thread/INFO]: belamadar lost connection: Disconnected
+[18:17:39] [Server thread/INFO]: belamadar left the game
+[18:17:39] [Server thread/INFO]: Updating all forceload tickets for 71e3a55e-7238-4242-8666-b15085123c06
+[18:17:39] [Server thread/INFO]: [voicechat] Disconnecting client belamadar
+[18:18:01] [User Authenticator #2/INFO]: UUID of player belamadar is 71e3a55e-7238-4242-8666-b15085123c06
+[18:18:02] [Server thread/INFO]: belamadar[/176.61.88.220:4515] logged in with entity id 187 at (-27.074471829848513, 64.0, -350.48202291886116)
+[18:18:02] [Server thread/INFO]: belamadar joined the game
+[18:18:02] [Server thread/INFO]: Updating all forceload tickets for 71e3a55e-7238-4242-8666-b15085123c06
+[18:18:03] [Server thread/INFO]: [voicechat] Received secret request of belamadar (18)
+[18:18:03] [Server thread/INFO]: [voicechat] Sent secret to belamadar
+[18:18:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 71e3a55e-7238-4242-8666-b15085123c06
+[18:18:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 71e3a55e-7238-4242-8666-b15085123c06
+[18:18:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player belamadar (71e3a55e-7238-4242-8666-b15085123c06) successfully connected to voice chat
+[18:18:55] [Server thread/INFO]: Incorrect argument for command
+[18:18:55] [Server thread/INFO]: ...rldborder 100 120<--[HERE]
+[18:19:04] [Server thread/INFO]: Growing the world border to 100.0 blocks wide over 120 seconds
+[18:22:53] [Server thread/INFO]: belamadar fell from a high place
+[18:23:10] [Server thread/INFO]: Set the time to 6000
+[18:30:14] [Server thread/INFO]: belamadar lost connection: Disconnected
+[18:30:14] [Server thread/INFO]: belamadar left the game
+[18:30:14] [Server thread/INFO]: Updating all forceload tickets for 71e3a55e-7238-4242-8666-b15085123c06
+[18:30:14] [Server thread/INFO]: [voicechat] Disconnecting client belamadar
+[18:43:42] [Server thread/INFO]: Stopping the server
+[18:43:42] [Server thread/INFO]: [Dynmap] Unloaded 11 components.
+[18:43:42] [Server thread/INFO]: [Dynmap] Stopping map renderer...
+[18:43:43] [Server thread/INFO]: [Dynmap] Disabled
+[18:43:43] [Server thread/INFO]: Stopping server
+[18:43:43] [Server thread/INFO]: Saving players
+[18:43:43] [Server thread/INFO]: Saving worlds
+[18:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:43:45] [Server thread/INFO]: Stopping IO worker...
+[18:43:45] [Server thread/INFO]: Stopped IO worker!
